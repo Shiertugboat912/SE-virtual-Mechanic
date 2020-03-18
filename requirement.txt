@@ -1,0 +1,4 @@
+numpy
+scipy
+keras
+django==1.11

@@ -1,0 +1,20 @@
+.env/*
+.ipynb_checkpoints/*
+foodImageClassifier/classifier/.ropeproject/*
+foodImageClassifier/foodImageClassifier/.ropeproject/*
+Gaze_UPMC_Food20.zip
+Gaze_UPMC_Food20/*
+Importing pre-trained model.ipynb
+dataset/*
+db.sqlite3
+images/*
+*.pyc
+*.npy
+media_cdn/*
+static_cdn/*
+.ropeproject/*
+*models/*
+floyd-hub/*
+*.h5
+output/*
+*migrations/*
